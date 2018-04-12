@@ -1,0 +1,16 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-bool-gate": "~1.0.2",
+        "node-red-contrib-boolean-logic": "0.0.3",
+        "node-red-contrib-git-nodes": "~0.2.2",
+        "node-red-contrib-git-ui": "~0.1.10",
+        "node-red-contrib-home-assistant": "~0.3.0",
+        "node-red-contrib-suncalcinput": "~1.0.0",
+        "node-red-contrib-sunevents": "0.0.5",
+        "node-red-contrib-tradfri": "~1.1.0",
+        "node-red-node-pushbullet": "0.0.12"
+    }
+}
